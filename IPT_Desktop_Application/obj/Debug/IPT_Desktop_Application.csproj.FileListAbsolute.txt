@@ -1,0 +1,63 @@
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.exe.config
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.exe
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.pdb
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csprojAssemblyReference.cache
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.JobOpening.resources
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.Properties.Resources.resources
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csproj.GenerateResource.cache
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.exe
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.pdb
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csproj.CopyComplete
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidateLogin.resources
+C:\Users\Abdul Rehman\Documents\Visual Studio 2017\Projects\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.EmployeeLogin.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidateLogin.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidatePanal.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidateSignup.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.EmployeeLogin.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.EmployeePanel.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.Index.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.JobOpening.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.Properties.Resources.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.UpdateTable.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.VacanciesTable.resources
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csproj.GenerateResource.Cache
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.exe.config
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.exe
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.pdb
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.exe
+C:\Users\Muhammad Saleem\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.pdb
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.exe.config
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.exe
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\IPT_Desktop_Application.pdb
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csprojAssemblyReference.cache
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidateLogin.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidatePanal.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidateSignup.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.EmployeeLogin.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.EmployeePanel.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.Index.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.JobOpening.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.Properties.Resources.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.UpdateTable.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.VacanciesTable.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csproj.GenerateResource.cache
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.csproj.CopyComplete
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.exe
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.pdb
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.CandidateShowALlVacancies.resources
+C:\Users\Abdul Rehman\Desktop\IPT_Desktop_Application\IPT_Desktop_Application\obj\Debug\IPT_Desktop_Application.ApplicantsTable.resources
